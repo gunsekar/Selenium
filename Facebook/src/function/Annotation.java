@@ -9,13 +9,13 @@ public class Annotation {
 	@Test
 	public void Testcase1()
 	{
-		System.out.println("Test case 1");
+		System.out.println("Test case 2");
 	}
 
 	@Test
 	public void Testcase2() {
 		
-		System.out.println("Test case 2");
+		System.out.println("Test case 3");
 	}
 	
 	public void Beforesuite() {
