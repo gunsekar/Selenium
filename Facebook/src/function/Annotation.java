@@ -15,7 +15,7 @@ public class Annotation {
 	@Test
 	public void Testcase2() {
 		
-		System.out.println("Test case 2");
+		System.out.println("Test case 4");
 	}
 	
 	public void Beforesuite() {
